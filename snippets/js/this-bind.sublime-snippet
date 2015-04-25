@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+this.${1} = this.${1}.bind();
+}
+]]></content>
+    <tabTrigger>bind</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: bind</description>
+</snippet>

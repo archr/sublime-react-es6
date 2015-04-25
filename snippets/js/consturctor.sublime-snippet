@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+constructor(props) {
+  super(props);
+}
+]]></content>
+    <tabTrigger>rcon</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: constructor</description>
+</snippet>

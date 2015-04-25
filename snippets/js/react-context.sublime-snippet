@@ -1,0 +1,12 @@
+<snippet>
+  <content><![CDATA[
+${1}.contextTypes = {
+  router: React.PropTypes.func
+};
+]]></content>
+    <tabTrigger>rrc</tabTrigger>
+    <scope>source.js</scope>
+    <description>React: contextTypes { router ... }</description>
+</snippet>
+
+
